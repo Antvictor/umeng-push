@@ -1,0 +1,7 @@
+upush:
+  ios:
+    key:  #ios appkey
+    secret: #ios appSecret
+  android:
+    key:  #android appkey
+    secret: #android appSecret
